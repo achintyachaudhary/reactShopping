@@ -68,7 +68,7 @@ export default class Header extends Component {
                   jumpTo('/dashboard')
                 }}
               >
-                Zack Market
+                Achintya
               </div>
             </div>
             <div className={styles.mid}>
